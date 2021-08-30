@@ -6,7 +6,13 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand"
+            "heading": "AdeBeauty"
+          }
+        },
+        "c5bff2f3-688f-4707-91e7-052135ad3db7": {
+          "type": "text",
+          "settings": {
+            "text": "Nature's Royal Touch"
           }
         },
         "button": {
@@ -23,6 +29,7 @@
       },
       "block_order": [
         "heading",
+        "c5bff2f3-688f-4707-91e7-052135ad3db7",
         "button"
       ],
       "settings": {
