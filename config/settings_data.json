@@ -1,7 +1,10 @@
 {
   "current": {
+    "colors_solid_button_labels": "#000000",
     "colors_accent_1": "#f1c248",
+    "colors_accent_2": "#ffffff",
     "colors_outline_button_labels": "#f1c248",
+    "colors_background_1": "#9d572c",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
