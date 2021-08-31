@@ -77,20 +77,20 @@
         "1630378172158e9585-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Only the best for you!",
             "heading_size": "medium"
           }
         },
         "1630378172158e9585-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Learn more about the ingredients in our products and why we chose them<\/p>"
           }
         },
         "1630378172158e9585-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Let's go",
             "button_link": "",
             "button_style_secondary": false
           }
