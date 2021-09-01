@@ -1,37 +1,43 @@
 {
   "sections": {
-    "16304646721135b499": {
-      "type": "image-with-text",
+    "16305245739d97f5bd": {
+      "type": "image-banner",
       "blocks": {
-        "16304646721135b499-0": {
+        "16305245739d97f5bd-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "We're Back!"
           }
         },
-        "16304646721135b499-1": {
+        "16305245739d97f5bd-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "Spend $30 and get a free lip balm Spend $50 and get a free hand cream"
           }
         },
-        "16304646721135b499-2": {
-          "type": "button",
+        "16305245739d97f5bd-2": {
+          "type": "buttons",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "16304646721135b499-0",
-        "16304646721135b499-1",
-        "16304646721135b499-2"
+        "16305245739d97f5bd-0",
+        "16305245739d97f5bd-1",
+        "16305245739d97f5bd-2"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/Pink_Skincare_Giveaway_Landscape_Banner_2.png",
+        "desktop_text_box_position": "center",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
       }
     },
     "16304671049f2ffa3a": {
@@ -166,7 +172,7 @@
     }
   },
   "order": [
-    "16304646721135b499",
+    "16305245739d97f5bd",
     "16304671049f2ffa3a",
     "image_text",
     "featured_products",
