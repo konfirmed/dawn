@@ -34,18 +34,46 @@
         "layout": "image_first"
       }
     },
-    "featured_products": {
-      "type": "featured-collection",
+    "16304671049f2ffa3a": {
+      "type": "collage",
+      "blocks": {
+        "ab5405be-28f0-4de4-bba5-9e9867d5c845": {
+          "type": "product",
+          "settings": {
+            "product": "alcohol-free-toner",
+            "secondary_background": false,
+            "second_image": false,
+            "image_padding": false
+          }
+        },
+        "4230f3e8-3263-467b-b52c-2b5e9314d94e": {
+          "type": "product",
+          "settings": {
+            "product": "shine-shine-face-oil",
+            "secondary_background": false,
+            "second_image": false,
+            "image_padding": false
+          }
+        },
+        "95ddcd6e-ef88-48d0-a8aa-dba495546102": {
+          "type": "product",
+          "settings": {
+            "product": "deep-conditioning-oil-treatment",
+            "secondary_background": true,
+            "second_image": false,
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "ab5405be-28f0-4de4-bba5-9e9867d5c845",
+        "4230f3e8-3263-467b-b52c-2b5e9314d94e",
+        "95ddcd6e-ef88-48d0-a8aa-dba495546102"
+      ],
       "settings": {
-        "title": "Featured products",
-        "collection": "featured-collection",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": true,
-        "show_vendor": false
+        "heading": "Featured Products",
+        "desktop_layout": "right",
+        "mobile_layout": "column"
       }
     },
     "image_text": {
@@ -80,6 +108,20 @@
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
+      }
+    },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Other Products You May Be Interested In",
+        "collection": "featured-collection",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": true,
+        "show_vendor": false
       }
     },
     "image_banner": {
@@ -125,8 +167,9 @@
   },
   "order": [
     "16304646721135b499",
-    "featured_products",
+    "16304671049f2ffa3a",
     "image_text",
+    "featured_products",
     "image_banner"
   ]
 }
