@@ -1,11 +1,13 @@
 {
   "current": {
-    "colors_solid_button_labels": "#000000",
-    "colors_accent_1": "#f1c248",
+    "colors_solid_button_labels": "#f1c248",
+    "colors_accent_1": "#000000",
     "colors_accent_2": "#f1c248",
-    "colors_text": "#f1c248",
-    "colors_outline_button_labels": "#faf1e9",
-    "colors_background_1": "#00000f",
+    "colors_text": "#000000",
+    "colors_outline_button_labels": "#000000",
+    "colors_background_1": "#faf1e9",
+    "colors_background_2": "#f1c248",
+    "checkout_body_background_color": "#faf1e9",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
