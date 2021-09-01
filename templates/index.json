@@ -111,6 +111,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Black_and_Green_Fantasy_Gaming_Feed_Ad.png",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
