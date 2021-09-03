@@ -33,11 +33,11 @@
         "16305245739d97f5bd-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Pink_Skincare_Giveaway_Landscape_Banner_2.png",
-        "desktop_text_box_position": "flex-start",
+        "image": "shopify:\/\/shop_images\/5.jpg",
+        "desktop_text_box_position": "center",
         "color_scheme": "background-1",
         "stack_images_on_mobile": false,
-        "adapt_height_first_image": true
+        "adapt_height_first_image": false
       }
     },
     "16304671049f2ffa3a": {
