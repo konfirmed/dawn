@@ -94,7 +94,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>When you return your old jars and bottles, you receive a 10% discount on your next order<\/p>"
+            "text": "<p>When you return your old jars and bottles, you receive a 5% discount on your next order<\/p>"
           }
         },
         "button": {
@@ -133,7 +133,6 @@
     },
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -164,6 +163,7 @@
         "c5bff2f3-688f-4707-91e7-052135ad3db7",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "desktop_text_box_position": "flex-end",
         "color_scheme": "background-1",
